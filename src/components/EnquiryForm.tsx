@@ -224,6 +224,13 @@ export default function EnquiryForm({ prefilledProduct, clearPrefilled }: Enquir
 
       setLoading(false);
       setSubmitted(true);
+      if ((window as any).gtag) {
+  (window as any).gtag("event", "conversion", {
+    send_to: "AW-706143010/DPmYCLzgydIcEKLG29AC",
+    value: 1.0,
+    currency: "INR"
+  });
+}
       setOtpStep(false);
 
       // Save submission to local storage for persistence
