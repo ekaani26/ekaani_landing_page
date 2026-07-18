@@ -1,0 +1,6 @@
+{
+  "name": "Ekaani Wedding Luxury",
+  "description": "Premium luxury wedding invitations and return gifts landing page by Ekaani, featuring bespoke designs and an interactive Luxe Gift Curator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
