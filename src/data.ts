@@ -145,8 +145,7 @@ export const RETURN_FAVORS: Product[] = [
     category: "favors",
     description: "Handcrafted miniature dry fruit serving bowl with elegant leaf handles, a beloved high-value token of gratitude.",
     material: "Fine EPNS Silver Plated Brass",
-    image: "https://images.unsplash.com/photo-1611080626919-7cf5a9dbab5b?w=500&auto=format&fit=crop&q=80",
-    estimatedPrice: "₹950",
+    image: "https://www.ekaani.com/cdn/shop/products/EG003011006_02.jpg?v=1755870435&width=400",
     occasion: "Return Gift",
     priceValue: 950
   },
@@ -157,7 +156,6 @@ export const RETURN_FAVORS: Product[] = [
     description: "Exquisite silver plated puja items packaged in a luxury velvet pouch with handcrafted organic incense sticks.",
     material: "Ekaani Premium Sterling Silver",
     image: "https://images.unsplash.com/photo-1609137144813-91b346901848?w=500&auto=format&fit=crop&q=80",
-    estimatedPrice: "₹750",
     occasion: "Return Gift",
     priceValue: 750
   },
@@ -168,7 +166,6 @@ export const RETURN_FAVORS: Product[] = [
     description: "Single stunning heavy lead-crystal jar capped with a floral silver-plated brass lid. Ideal for mukhwas or premium saffron.",
     material: "Czech Lead Crystal & German Silver",
     image: "https://cdn.shopify.com/s/files/1/0748/5014/0446/files/RamDarbar2_1.jpg?v=1784361712",
-    estimatedPrice: "₹1,250",
     occasion: "Anniversary",
     priceValue: 1250
   }
